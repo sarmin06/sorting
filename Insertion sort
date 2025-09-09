@@ -1,4 +1,4 @@
-# sorting[InsertionSort.c](https://github.com/user-attachments/files/22239132/InsertionSort.c)
+# sorting
 #include <stdio.h>
 
 void insertion_sort(int a[], int n) {
